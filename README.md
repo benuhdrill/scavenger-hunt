@@ -25,5 +25,4 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://github.com/user-attachments/assets/090d14f4-0ac2-49f3-98b3-6153a764c44d
-
+![scavenge](https://github.com/user-attachments/assets/9388d032-3679-4c2e-928c-3a092338ed51)
